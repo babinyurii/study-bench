@@ -1,0 +1,8 @@
+>seq1
+aaaaaaaaaaa
+>seq2
+ccccccccccc
+>seq3
+ttttttttttt
+>seq4
+ggggggggggg
